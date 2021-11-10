@@ -12,6 +12,9 @@
 ## Repo Link
 none for now
 
+## Deploy Link
+https://mernstack-challenge.herokuapp.com/
+
 ## Description 
 This is a book store that uses graphQL to search up google book store api
 
