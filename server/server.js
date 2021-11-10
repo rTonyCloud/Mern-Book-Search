@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const db = require('./config/connection');
 const routes = require('./routes');
-
+require('dotenv').config(); 
 console.log(process.env.MONGO_URI)
 
 const {ApolloServer} = require('apollo-server-express');
