@@ -28,7 +28,7 @@ you need to run this by using npm run
 npm test
 
 ## languages
-JavaScript
+JavaScript, node.js, React.js, Graphql, and much more.
 
 ## Contributors
 There are many ways in which anyone could contribute with resolving bugs, tickets and much more. If you have any questions, or concerns, please econtact us under the questions section
